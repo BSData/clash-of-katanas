@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<gameSystem id="4721-7945-0208-1507" name="Clash of Katanas" revision="7" battleScribeVersion="2.03" authorName="Karter Aurian" authorContact="Karter.Aurian@gmail.com" xmlns="http://www.battlescribe.net/schema/gameSystemSchema">
+<gameSystem id="4721-7945-0208-1507" name="Clash of Katanas" revision="8" battleScribeVersion="2.03" authorName="Karter Aurian" authorContact="Karter.Aurian@gmail.com" xmlns="http://www.battlescribe.net/schema/gameSystemSchema">
   <readme>Hope it all works
 
 Haven&apos;t figured out how to limit things like geisha&apos;s and assassins to 1 per army.
@@ -1344,7 +1344,7 @@ the Nembutsu Chants.
     </profile>
     <profile id="6fc3-97cc-b28b-5b93" name="War Bow (Mounted)" publicationId="2b66-a6af-f775-7e3a" page="18" hidden="false" typeId="3b23-2b3e-2aa1-7894" typeName="Missile Weapons">
       <characteristics>
-        <characteristic name="Missile Weapon" typeId="f27b-abc8-6cdc-6051">War Bow</characteristic>
+        <characteristic name="Missile Weapon" typeId="f27b-abc8-6cdc-6051">War Bow (Mounted)</characteristic>
         <characteristic name="Range (Close/Long)" typeId="3aaa-036d-a3bd-7c93">8”/16”</characteristic>
         <characteristic name="Save Mod" typeId="6e5f-ed78-bd16-3f84">0 up to 2”, then +1</characteristic>
         <characteristic name="Notes" typeId="e6a0-9cba-d6ab-891e">Mounted shooting</characteristic>
