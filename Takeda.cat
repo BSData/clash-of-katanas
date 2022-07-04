@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalogue id="cf8f-db80-cdc4-075d" name="Takeda" revision="3" battleScribeVersion="2.03" library="false" gameSystemId="4721-7945-0208-1507" gameSystemRevision="5" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+<catalogue id="cf8f-db80-cdc4-075d" name="Takeda" revision="4" battleScribeVersion="2.03" library="false" gameSystemId="4721-7945-0208-1507" gameSystemRevision="7" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
   <entryLinks>
     <entryLink id="c3e8-bf4c-76db-cba6" name="Support Ashigaru" hidden="false" collective="false" import="true" targetId="b750-7993-e61e-3c2d" type="selectionEntry"/>
     <entryLink id="f630-d777-2937-344b" name="Assassin" hidden="false" collective="false" import="true" targetId="bafb-2e2b-a101-051d" type="selectionEntry"/>
@@ -652,7 +652,7 @@
         <infoLink id="bbe0-481a-088a-eec2" name="The Old Ways" hidden="false" targetId="580d-9ae4-403e-9ac7" type="rule"/>
         <infoLink id="7b47-deda-dc03-5ef6" name="Iron Will" hidden="false" targetId="8f05-7fdf-356d-8fd2" type="rule"/>
         <infoLink id="1eb1-b870-98ec-ec88" name="Honorable" hidden="false" targetId="248c-5a38-ff9b-1443" type="rule"/>
-        <infoLink id="cc0d-54a0-324c-071e" name="Hand Weapon" hidden="false" targetId="da61-d14e-1496-e15e" type="profile">
+        <infoLink id="cc0d-54a0-324c-071e" name="Hand Weapon" hidden="true" targetId="da61-d14e-1496-e15e" type="profile">
           <modifierGroups>
             <modifierGroup>
               <modifiers>
@@ -866,6 +866,11 @@
                 <modifier type="set" field="hidden" value="false">
                   <conditions>
                     <condition field="selections" scope="8ab4-b787-5998-1bb3" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" childId="9f94-47c4-70c5-60ae" type="equalTo"/>
+                  </conditions>
+                </modifier>
+                <modifier type="set" field="hidden" value="true">
+                  <conditions>
+                    <condition field="selections" scope="8ab4-b787-5998-1bb3" value="0.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" childId="9f94-47c4-70c5-60ae" type="equalTo"/>
                   </conditions>
                 </modifier>
               </modifiers>
