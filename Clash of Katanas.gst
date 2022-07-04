@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<gameSystem id="4721-7945-0208-1507" name="Clash of Katanas" revision="6" battleScribeVersion="2.03" authorName="Karter Aurian" authorContact="Karter.Aurian@gmail.com" xmlns="http://www.battlescribe.net/schema/gameSystemSchema">
+<gameSystem id="4721-7945-0208-1507" name="Clash of Katanas" revision="7" battleScribeVersion="2.03" authorName="Karter Aurian" authorContact="Karter.Aurian@gmail.com" xmlns="http://www.battlescribe.net/schema/gameSystemSchema">
   <readme>Hope it all works
 
 Haven&apos;t figured out how to limit things like geisha&apos;s and assassins to 1 per army.
@@ -1042,8 +1042,7 @@ Models with the Attack (x) trait contribute a higher number of attacks when deci
 </description>
     </rule>
     <rule id="07c6-cfbe-cdcd-4215" name="Wounds (X)" publicationId="2b66-a6af-f775-7e3a" page="43" hidden="false">
-      <description>These soldiers are very resilient and can sustain additional wounds before they are taken out of
-action.
+      <description>These soldiers are very resilient and can sustain additional wounds before they are taken out of action.
  
 Models with the Wound (x) trait are only removed once they have sustained a number of wounds equal to the x number.
  
@@ -1071,8 +1070,7 @@ If a unit with this token next to them executes a shoot action against an enemy 
 </description>
     </rule>
     <rule id="76c4-88ea-3c72-aabc" name="Pavises" publicationId="2b66-a6af-f775-7e3a" page="24" hidden="false">
-      <description>(1 armor point against missile attacks when
-deployed)
+      <description>(1 armor point against missile attacks when deployed)
 
 Missile troops can carry large shields known as pavises, or Tate for the Japanese.
  
