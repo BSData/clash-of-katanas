@@ -559,525 +559,298 @@ Start the battle with 2 Fate Points.</comment>
   </sharedSelectionEntryGroups>
   <sharedRules>
     <rule id="9e3d-8d20-5c26-4f45" name="Musicians" publicationId="2b66-a6af-f775-7e3a" page="65" hidden="false">
-      <description>You can attach a musician to one of your characters, the musician will use a drum (Taiko) or the Conch Shell (Horagai). The model remains in base-to-base contact with the character and extend the command range to 16” but only to activate units. When checking command range to attempt a reaction use the command range of the character ignoring the effect of the musician. 
- 
-The musician is never targeted, nor can they fight, and is removed if the character model is eliminated from the game without any additional effect.
-
-</description>
+      <description>See Clash of Katanas page 65</description>
     </rule>
     <rule id="e858-ddd4-90c8-d71c" name="Ashigaru Drill" publicationId="2b66-a6af-f775-7e3a" page="25" hidden="false">
       <description>(affects Pike rules and form close order action)
 
-Troops with this trait still count as using the Pike while in loose order and are not forced to use a hand weapon, as indicated by the Pike rules, as long as all the models in the unit are fully in open terrain.
- 
-In addition to this, troops with this trait that wish to do a Form Close Order action as a reaction when they have an active enemy within 8” do not need to be in command range to react, nor do they need a CP to react. They do, however, need to do a reaction test as usual. A character in command range can spends CPs as usual to improve the odds of success.
- 
-Finally, these troops never gain fatigue for executing a form close order action, even when the fatigue table would indicate otherwise.
+See Clash of Katanas page 25
 
 </description>
     </rule>
     <rule id="cdd3-6f40-2c09-f2be" name="Bushmaster" publicationId="2b66-a6af-f775-7e3a" page="25" hidden="false">
       <description>(affects morale and saves in high terrain)
 
-Troops with the Bushmaster trait that have to take a morale test while all the models in the unit are in high area terrain may re-roll any 1s rolled, before applying any modifiers.
- 
-These troops gain a +1 save modifiers against missile attacks while in high area terrain.
+
+See Clash of Katanas page 25
 
 </description>
     </rule>
     <rule id="cc06-d370-985b-b9e8" name="Charge" publicationId="2b66-a6af-f775-7e3a" page="26" hidden="false">
       <description>(requires Attack action in loose order armed with cavalry long spear, affects  Attack mechanics, enemy saving throw and morale)
 
-A mounted unit in loose order with cavalry long spears executing an attack action against an enemy with lower weapon initiative gains a -1 save modifier to their hits.
+See Clash of Katanas page 26
 
 </description>
     </rule>
     <rule id="4819-db9b-6f59-4d46" name="Combined Arms" publicationId="2b66-a6af-f775-7e3a" page="26" hidden="false">
       <description>(requires Attack action and mixed weapons, affects to-hit rolls)
 
-When executing an Attack action, or when selecting Defend as a combat response, troops with this trait may re-roll any to-hit rolls of 1 before applying any relevant modifiers.
+See Clash of Katanas page 26
 
 </description>
     </rule>
     <rule id="ff67-0589-a472-9a59" name="Deadly Strike" publicationId="2b66-a6af-f775-7e3a" page="26" hidden="false">
       <description>(affects enemy combat response)
 
-When choosing to do an Attack action, the player can indicate that the trait will be used, this must be announced before the defender selects any combat response.
- 
-When using deadly strike, if the enemy player chooses counterattack as a combat response, the counterattack takes place first, after the counter attack wounds are applied if the attacker is still alive, then conduct the attack.
- 
-Any models with the wounds(x) trait will suffer two wounds instead of one for each unsaved hit from an attacker using the deadly strike trait.
-
+See Clash of Katanas page 26
 </description>
     </rule>
     <rule id="70f5-69fc-f349-3df4" name="Extra Equipment (X)" publicationId="2b66-a6af-f775-7e3a" page="26" hidden="false">
       <description>(affects equipment usage)
 
-When troops carry equipment that cannot be used at the same time (i.e., bows and shields), we need to identify what equipment is in use by the troops at each point in the battle. 
- 
-This also applies when troops carry more than one type of weapon (other than hand weapons). A typical example of this is some cavalry units that can act both as missile troops armed with javelins but may also switch to a close combat cavalry spear.
- 
-We will always assume that the equipment indicated in parentheses next to the trait is the equipment that is not ready to be used at the start of the battle. It could be strapped to the backs of the soldiers, or there could be any alternative way of carrying this equipment. 
-
-
- 
-These troops can switch to their alternative equipment by announcing they are doing so while executing a move action or by doing a ready action. When they switch to use the extra equipment, place an extra equipment token next to the unit. While the unit has this token, the equipment in the parentheses next to this trait is the one in use by the troops. Any other equipment not compatible with it is strapped or placed aside and cannot be used.
- 
-The troops can remove the Extra Equipment token again by executing another Ready action or while doing a Move action as before.</description>
+See Clash of Katanas page 26</description>
     </rule>
     <rule id="afa1-3c4b-a5af-e4ac" name="Extended Nagae-Yari" publicationId="2b66-a6af-f775-7e3a" page="27" hidden="false">
       <description>(requires pike)
 
-These troops carry a longer version of the Nagae-Yari and train to excel in their use.
- 
-When fighting against other troops with weapons with the same initiative (initiative 4), this unit counts as having weapons with higher initiative.
+See Clash of Katanas page 27
 
 </description>
     </rule>
     <rule id="fd1f-2bdc-07d2-b1e2" name="Form Up!" publicationId="2b66-a6af-f775-7e3a" page="27" hidden="false">
       <description>(requires mounted)
 
-When a unit with the mounted trait and this trait executes a move action while in loose order in which no models move more than 4” the unit can immediately execute a form close order action for free once the move action is finished. This still counts as a move action for all purposes but the forming close order action is executed as indicated in the rules.
-
-</description>
+See Clash of Katanas page 27</description>
     </rule>
     <rule id="f8a4-593f-e7ef-3596" name="Furikaeshi" publicationId="2b66-a6af-f775-7e3a" page="27" hidden="false">
       <description>(naginata defensive technique, requires defend &amp; loose order while not in high area terrain, affects defend mechanics)
 
-To benefit from this trait the troops must be in loose order and none of the models can be in high area terrain. When selecting defend as a combat response you have the option of using this skill instead of rolling to cancel enemy hits.
- 
-If the skill is used, then the enemy must take a grit test before rolling to hit, applying any relevant modifiers. The player may add an additional D6 to increase the chance of success if the attackers are more than double the models in the unit with Furekaeshi.
-
-* If the test is failed they may only roll half the total number of attacks they would normally roll, round up.
-* If the test is passed they may roll their normal number of attacks.
-
-In either case, the attacker to-hit rolls will suffer a -1 to hit. In addition, each 1 rolled by the attacker, before applying any modifiers or using any trait re-rolls, will result in a hit caused to the attacker! After accounting for the self-inflicted hits, relevant trait re-rolls still apply and could result in additional attacking hits but not additional self inflicted hits.
- 
-These hits will benefit from the -1 save modifier from the naginatas but will not cause the attacker to have to test morale. The number of hits suffered by the attacker can never exceed the number of attacks from the defending unit, any excess hits are ignored.
- 
-The combat response still counts as defend, so the unit gains an action token but will not gain fatigue, and the defender is the one that must retreat after the melee.
-
-</description>
+See Clash of Katanas page 27</description>
     </rule>
     <rule id="49c9-f4ad-cd1c-843a" name="Guerrilla" publicationId="2b66-a6af-f775-7e3a" page="28" hidden="false">
       <description>(requires loose order, affects enemy morale)
 
-If troops with this trait initiate an Attack or All Out Attack action from high area terrain, then the enemy must add a D6 to any morale tests resulting from the melee. The unit only needs to be in the area terrain when they start the action, but all the models in the unit must start in such terrain.
- 
-Troops with the Guerrilla trait always treat rough terrain as open terrain and broken terrain as rough terrain when consulting the fatigue chart when executing Attack, All Out Attack, Throw or Shoot actions.
-
-</description>
+See Clash of Katanas page 28</description>
     </rule>
     <rule id="4b1e-a038-9ab8-18e5" name="Gushing Wounds" publicationId="2b66-a6af-f775-7e3a" page="28" hidden="false">
       <description>(requires all-out attack and double handed weapon, enemy morale)
 
-When executing an all-out attack, for each defender’s saving throw roll of 1, before applying any modifiers but after any possible re-rolls, the defender must add 1D6 to the required morale tests, just as if an additional wound had been received.
-
-</description>
+See Clash of Katanas page 28</description>
     </rule>
     <rule id="7e14-85d7-9425-fd62" name="Harinezumi" publicationId="2b66-a6af-f775-7e3a" page="29" hidden="false">
       <description>(requires counter attack in close order and Pike, affects counter-attack mechanics)
 
-This trait is applied when a unit in closed order armed with Pikes is the defender in a melee against an opponent with lower initiative weapon. If the defender selects counter-attack as a combat response, instead of rolling the same number of dice as the attacker, the player may roll up to two times the number of attacks of the attacking unit but not exceeding the defending unit attacks.
- 
-In addition, these attacks are resolved before the attacker gets to roll to-hit, and so any casualties resulting from this counterattack are removed immediately and don’t get to contribute dice to the attacker’s roll.
-
-</description>
+See Clash of Katanas page 29</description>
     </rule>
     <rule id="55cb-be7a-e2ae-eb7f" name="Heavy Strike" publicationId="2b66-a6af-f775-7e3a" page="29" hidden="false">
       <description>(Requires heavy weapons)
 
-A unit that selects defend as a combat response against an enemy with the heavy strike trait will suffer a -1 modifier to their defend rolls.
- 
-In addition to this, if the attacking unit chose to do an All-Out-Attack against a unit that selected Defend as combat response, the defender will have to roll an additional D6 in morale.
- 
-Even if the attacker scores no hits, or if all hits are blocked, the defender must still roll for morale with one D6 due to this trait. This also applies if the defender chooses to use the Furikaeshi trait, as it is used in lieu of defend.
-
-</description>
+See Clash of Katanas page 29</description>
     </rule>
     <rule id="de26-4407-1e5c-9333" name="Kuridashi" publicationId="2b66-a6af-f775-7e3a" page="29" hidden="false">
       <description>(naginata offensive technique, requires Attack action in loose order while not in high area terrain and affects enemy counter-attack)
 
-To apply this trait the unit must execute an attack action while none of the models are in high area terrain and the unit is formed in loose order. If the unit executes an attack action against an enemy with weapons of lower initiative and the enemy selects counterattack as a combat response, they must apply a -1 modifier to the counter attacking to-hit rolls.
-
+See Clash of Katanas page 29
 </description>
     </rule>
     <rule id="ca48-a294-edfa-38d5" name="Mandarin Duck" publicationId="2b66-a6af-f775-7e3a" page="30" hidden="false">
       <description>(affects reaction)
 
-A unit with the Mandarin Duck trait that has another unit with the Mandarin Duck trait an in loose order,at a range of 2” or less and wants to react when an enemy unit within 8” announces an action can attempt the following special reaction.
- 
-The reacting unit may attempt to react by moving through the friendly unit with the mandarin duck trait. The unit may move up to 6” but at least the first model moved must do so through the friendly unit with mandarin duck. 
- 
-The unit attempting this reaction does not need a CP, nor does it need to be in command range, to attempt this reaction. However, a reaction test is required as normal and a character within command range could spend a CP to improve the odds of the reaction test as usual, if desired.
- 
-In addition to this, when a unit with the mandarin duck trait needs to retreat from melee and the retreat is blocked by a friendly unit with the mandarin duck trait, the blocking friendly unit can move up to 1” to make room for the retreating unit.
-
-</description>
+See Clash of Katanas page 30</description>
     </rule>
     <rule id="c82e-f5db-a33e-78dc" name="Massed Charge" publicationId="2b66-a6af-f775-7e3a" page="31" hidden="false">
       <description>(requires Attack action in close order armed with cavalry long spear, affects Attack)
 
-A unit with the Massed Charge trait that executes an Attack action while in loose order gains the same benefits as indicated by the Charge trait. When a mounted unit with Massed Charge executes an attack in close order, they can execute an 8” move, as long as this move is done in straight line in the facing direction without any turns or shifts, thus ignoring the 4” movement restriction for mounted units attacking in close order. 
- 
-In addition, if attacking in close order with cavalry long spear against enemies with weapon initiative two or less,, they will gain the following benefits:
-
-* If the enemy unit selects Counterattack as a combat response, the attacking unit will roll their attacks first, and only surviving enemies will get to strike back.
-* The enemy will suffer a -1 modifier to all saving throws.
-* If the enemy unit has to make a morale test as a result of this melee, then they will add an additional D6 to their morale test dice, just as if they had suffered an additional casualty. 
-
-However, if the enemy unit has weapon initiative three or higher, then apply the following effects instead:
-
-* Both the attacker and the defender will suffer a -1 modifier to all saving throws.
-* If the enemy unit must take a morale test as a result of this melee, then they will add an additional D6 to their morale test dice, just as if they had suffered an additional casualty.
-
-</description>
+See Clash of Katanas page 31</description>
     </rule>
     <rule id="77c2-4c9c-11ce-230f" name="Momentum" publicationId="2b66-a6af-f775-7e3a" page="32" hidden="false">
       <description>(requires polearms in open terrain, affects enemy on defend response and saving throw)
 
-This trait applies when an attacker selects Attack while all the attacking models are fully in open terrain and armed with pole weapons. 
- 
-Any attacker to hit rolls of 6, before applying any modifiers, will result in an additional -1 save modifier.
- 
-In addition to this, if the defending unit selects defend as their combat response they will suffer a -1 to their defend rolls.
-
+See Clash of Katanas page 32
 </description>
     </rule>
     <rule id="d9d2-3558-9345-f859" name="Mounted" publicationId="2b66-a6af-f775-7e3a" page="32" hidden="false">
       <description>(affects various)
 
-The following rules apply to mounted troops:
-
-* Mounted troops move 8” in loose order in open terrain.
-* Mounted troops in close order cannot move more than 4” when doing Move, Attack or All-Out Attack actions
-* When mounted troops must retreat from melee, they retreat 3” rather than just 1”. Although they retreat 3”, the unit will only gain fatigue if they cannot retreat 1” from the enemy due to terrain or other troops.
-* Enemies shooting at mounted suffer a -1 modifier to their to-hit rolls when shooting at a mounted unit that is active and in open terrain (i.e., when shooting as a reaction). This reflects the additional difficulty of hitting enemy mounted troops while they are maneuvering.
-* Infantry armed with initiative 0 or 1 weapons, fighting active mounted troops in the open, suffer a -1 to their  defend or to-hit rolls. This is due to the advantageous combat stance of the mounted warrior. Note that this only applies to active mounted troops; if mounted troops are caught flat-footed and attacked by an active enemy, this does not apply.
-* If mounted troops go into rough terrain, all previous rules and all other traits that benefit mounted troops, like charge or others, no longer apply and any missile weapons are treated as the infantry version of that weapon. We assume the troops either dismount or at least cannot leverage their mounts to gain the.
-
-</description>
+See Clash of Katanas page 32</description>
     </rule>
     <rule id="6031-3bdb-cb86-4483" name="Mounted gunnery" publicationId="2b66-a6af-f775-7e3a" page="33" hidden="false">
       <description>(requires mounted and arquebus/early firearms)
 
-These troops are trained to use their arquebus or early firearms while mounted, however it does require a steady stance. 
- 
-Despite having the mounted trait, these troops armed with firearms always use the infantry version of the weapon and use standard shooting instead mounted shooting. This reflects the mounts having to remain still while the rider is shooting.
-
-</description>
+See Clash of Katanas page 33</description>
     </rule>
     <rule id="4ac0-4eb1-e7c2-22b7" name="Norikuzishi" publicationId="2b66-a6af-f775-7e3a" page="33" hidden="false">
       <description>(requires mounted, close order and cavalry long spear and affects attack)
 
-When this unit executes an Attack action in the open while in close order the player may re-roll any 1s on the to-hit rolls before applying any modifiers.
-
-</description>
+See Clash of Katanas page 33</description>
     </rule>
     <rule id="9ef1-040d-9c12-0031" name="Off Hand Parry" publicationId="2b66-a6af-f775-7e3a" page="33" hidden="false">
       <description>(requires defend in loose order and off-hand weapon or shield, affects defend rolls)
 
-While in loose order, if these troops select Defend as their combat response, they may re-roll any rolls of 1 and 2 before applying any modifiers.
+See Clash of Katanas page 33
 
 </description>
     </rule>
     <rule id="9f7f-4042-6f70-1f74" name="Overwhelm" publicationId="2b66-a6af-f775-7e3a" page="33" hidden="false">
       <description>(requires Attack in loose order from a distance of 2” or less, affects to-hit and enemy morale)
 
-When executing an Attack action in loose order against an enemy within 2” distance, if the attacking unit has more models than the defender, the attacker may re-roll any to-hit rolls of 1, before applying any modifiers.
- 
-In addition to this, the enemy will add a D6 to any morale test they might be required to test due to this melee, just as if it had received an additional casualty.
-
+See Clash of Katanas page 33
 </description>
     </rule>
     <rule id="31e4-e1bb-1891-6660" name="Overhead Shot" publicationId="2b66-a6af-f775-7e3a" page="33" hidden="false">
       <description>(requires missile weapons and close order, affects Shoot action mechanics)
 
-When executing a Shoot action while in close order, these troops can shoot over friendly troops within 4”. As long as at least one of the shooting models must trace line of sight over the friendly unit, the enemy is considered to be at long range for this shoot action. Alternatively, you can choose not to have those models participate in the shooting action and perform a direct shooting action by following the standard rules with the remaining models.
-
+See Clash of Katanas page 33
 </description>
     </rule>
     <rule id="75a1-70dd-efce-46c3" name="Parry Riposte" publicationId="2b66-a6af-f775-7e3a" page="33" hidden="false">
       <description>(requires loose order against enemy in loose order, affects defend)
 
-This trait takes effect when troops select defend while in loose order against an enemy also fighting in loose order. For each enemy hit canceled by the defend response, the defending player rolls a D6, each result that matches or exceeds the combat stat of the defender will cause a hit on the attacker. The attacker never takes a morale test due to these hits.
-
-</description>
+See Clash of Katanas page 33</description>
     </rule>
     <rule id="f882-da72-3763-a998" name="Rain of Blows" publicationId="2b66-a6af-f775-7e3a" page="34" hidden="false">
       <description>(requires loose order against enemy in loose order, affects defend)
 
-When a unit with rain of blows executes an All-Out-Attack action they may re-roll any 1s and 2s rolled in the to hit roll before applying any modifiers.
-
-</description>
+See Clash of Katanas page 34</description>
     </rule>
     <rule id="50ed-7ab9-239e-3d86" name="Rotational Fire" publicationId="2b66-a6af-f775-7e3a" page="34" hidden="false">
       <description>(requires close order and Teppo, affects unloaded counters)
 
-Troops with this trait formed in close order may choose to only count the models in the front rank when determining the number of models that can fire. When doing this the unit does not gain any fatigue for the shoot action even if the fatigue table indicates they should. In addition, for each rank after the first, the unit will negate one of the reload markers gained, as long as that rank has at least half the number of models in the front rank.
- 
-Troops with this trait never gain fatigue when doing a form close order action, even when the fatigue table  indicates they should. 
- 
-Troops with this drill can still form in close order even if they are within 2” of a linear obstacle and parallel to it.
-
-</description>
+See Clash of Katanas page 34</description>
     </rule>
     <rule id="8670-12b3-d513-9f8f" name="Shields up!" publicationId="2b66-a6af-f775-7e3a" page="35" hidden="false">
       <description>(requires unit not in high area terrain)
 
-A unit with this trait, with no models in high area terrain, may declare they are using this trait when they are chosen as a target of a missile attack. The unit gains an action token and receives the following benefits:
-
-* Troops gain a +1 save modifier
-* Troops may re-roll any 1s, before applying any modifiers, on saving throws unless the attack has a negative save modifier, -1, -2, etc.
-
-The unit must gain an action token to earn this benefit for this specific attack. The unit can use this trait each time attack as long as they can continue to gain action tokens. Gaining these action tokens does not result in the unit gaining any additional fatigue so you do not need to consult the fatigue table. since this is neither a reaction or an action, just a trait benefit.
-
-</description>
+See Clash of Katanas page 35</description>
     </rule>
     <rule id="ff43-1aaa-9706-7d3a" name="Skirmish Specialist" publicationId="2b66-a6af-f775-7e3a" page="35" hidden="false">
       <description>(requires loose order, affects save, grit, reaction)
 
-Troops with the Skirmish Specialist trait gain a +1 to their save rolls when being attacked with any kind of missile weapons while in loose order.
- 
-Troops in loose order with this trait that wish to do a Move action as a reaction when they have an active enemy unit within 4” do not need to be in command range to react, nor do they need a character to spend a CP for them to react. They do, however, need to do a reaction test so a character in command range could still spend a CP to increase their odds of passing that reaction test. 
- 
-When troops with the Skirmish Specialist trait have to test morale due to a melee combat while at least some of the models in this unit are in open terrain, they add an additional D6 to any morale test dice pool, just as if they had suffered an additional casualty, unless the enemy troops are themselves skirmish specialists.
-
-</description>
+See Clash of Katanas page 35</description>
     </rule>
     <rule id="b987-88fe-a8d2-f0c6" name="Sharpshooter" publicationId="2b66-a6af-f775-7e3a" page="35" hidden="false">
       <description>(requires missile weapon, affects shoot action)
 
-When these troops perform a Ready action, place a Ready token or maker next to them to indicate that they have taken the Ready action. This token remains there until after the unit performs an action or rests/rally, at which point the token is removed.
- 
-If a unit with this token next to them executes a shoot action they add +1 to their to-hit rolls.
-
+See Clash of Katanas page 35
 </description>
     </rule>
     <rule id="5f2b-ec66-2241-0d2e" name="Tate Specialist" publicationId="2b66-a6af-f775-7e3a" page="36" hidden="false">
       <description>(requires pavise and affects morale)
 
-While these troops have deployed pavises and are in close order, if called to take a morale test as a result of missile attacks from enemies to their front they may re-roll any 1s and 2s in the morale test before applying any modifiers.
-
-</description>
+See Clash of Katanas page 36</description>
     </rule>
     <rule id="5d66-524d-6472-68ed" name="Uteya" publicationId="2b66-a6af-f775-7e3a" page="36" hidden="false">
       <description>(requires Attack action in loose order in the open and any type of infantry spear or pike, affects enemy counter attack)
 
-When executing an Attack action in loose order while all attacking models are in open terrain at the time of the melee, against enemies armed with lower initiative weapons; if the enemy selects counter-attack as the combat response, any 1s rolled by the counter-attacking player, before applying any modifiers but after any re-rolls, will count as  additional hits caused by the attacker.
-
-</description>
+See Clash of Katanas page 36</description>
     </rule>
     <rule id="1368-1e12-4bdb-b5bd" name="Volley" publicationId="2b66-a6af-f775-7e3a" page="36" hidden="false">
       <description>(requires close order and Arquebus, affects enemy morale)
 
-When troops with the volley trait execute a shoot action while in close order, enemy targets must add an additional D6 to any morale tests required, just as if they had suffered an additional casualty. Troops with this trait can still form in close order even if they are within 2” of a linear obstacle and parallel to it.
- 
-A unit formed in close order in three ranks or more will not get any benefit from the volley rule. This represents the specific training related to the fire doctrine that will result in an effective volley. While troops in more ranks might be able to put the same volume of fire we will assume that this volley is not coordinated enough to produce the effect of the two rank or one rank volley.
-
-</description>
+See Clash of Katanas page 36</description>
     </rule>
     <rule id="88fd-c9d2-881a-514d" name="Wall of Spears" publicationId="2b66-a6af-f775-7e3a" page="37" hidden="false">
       <description>(requires close order affects hold)
 
-When a unit with the Wall of Spears formed in close order, selects hold as a combat response against an enemy with lower initiative weapons, modify the hold response as follows:
-
-*  The defender rolls a number of D6 equal to half the enemy attacks rounded up, not exceeding the total number of attacks of the defending unit applying any modifiers.
-* Every result matching or exceeding the Combat of the defending unit will cause one hit on the enemy.
-* The enemy immediately rolls the corresponding saving throws and any unsaved hits cause wounds as usual, and the enemy removes the corresponding casualties. Those models are removed before they get a chance to attack.
-* The attacker does not to take a morale test due to these hits or casualties.
-
-</description>
+See Clash of Katanas page 37</description>
     </rule>
     <rule id="f3fe-ae4f-2bcd-a174" name="Yoji-gakure" publicationId="2b66-a6af-f775-7e3a" page="37" hidden="false">
       <description>(affects enemy combat response)
 
-When doing an attack action against a character or a unit with fewer models than the attacker’s total number of attacks, the player can indicate that they will use the Yoji-gakure trait, this must be announced before the enemy selects any combat response.
- 
-When using this trait, the enemy will suffer a -2 to any counterattack to hit rolls. The attacking troops gain an unloaded token and cannot use the trait again until they spend a ready action to remove the unloaded token as the warriors prepare their special implements for their next use.
-
-</description>
+See Clash of Katanas page 37</description>
     </rule>
     <rule id="cca7-e2ea-861f-ddca" name="Allies" publicationId="2b66-a6af-f775-7e3a" page="40" hidden="false">
       <description>(affects enemy combat response)
 
-When testing for force break test, if you roll at least one failure, then all your troops with this trait gain an action token, so they will start next turn as if they had already executed their first action.
-
+See Clash of Katanas page 40
 </description>
     </rule>
     <rule id="db7b-1978-8120-333d" name="Brotherhood" publicationId="2b66-a6af-f775-7e3a" page="40" hidden="false">
       <description>(affects morale)
 
-When troops with this trait are required to take a morale test, they re-roll an results of 1 as long as the current number of models in the unit is more than twice the number of dice rolled for the test, e.g. the unit would need to be 7 models strong for a 3 dice test, not counting any dice added by commanders spending CPs to increase the odds as explained in the core rules 
- 
-In addition to this, the unit will only suffer one wound for each fatigue point above six instead of the normal two wounds indicated by the rules.
-
+See Clash of Katanas page 40
 </description>
     </rule>
     <rule id="b9ba-f175-2fad-7c41" name="Sisterhood" publicationId="2b66-a6af-f775-7e3a" page="40" hidden="false">
       <description>(affects morale)
 
-When troops with this trait are required to take a morale test, they re-roll an results of 1 as long as the current number of models in the unit is more than twice the number of dice rolled for the test, e.g. the unit would need to be 7 models strong for a 3 dice test, not counting any dice added by commanders spending CPs to increase the odds as explained in the core rules 
- 
-In addition to this, the unit will only suffer one wound for each fatigue point above six instead of the normal two wounds indicated by the rules.
-
+See Clash of Katanas page 40
 </description>
     </rule>
     <rule id="c574-93df-8bc6-d416" name="Determined" publicationId="2b66-a6af-f775-7e3a" page="41" hidden="false">
       <description>(affects grit tests)
 
-When these troops are required to take any tests against the Grit stat, they can ignore any fatigue modifiers for that test.
+See Clash of Katanas page 41
 
 </description>
     </rule>
     <rule id="c6ac-ca22-0749-4553" name="Duty-bound" publicationId="2b66-a6af-f775-7e3a" page="41" hidden="false">
       <description>(affects morale)
 
-If this unit is attempting to do a reaction test while the active unit is within 8” of a friendly level 4 or 5 character, they may re-roll any failed rolls.
- 
-Level 4 and level 5 characters can use command points to improve the odds of this unit’s morale test resulting from melee as indicated on page 28 of the CLASH of Spears rulebook, even if the character is not attached to the unit.
- 
-If this unit is exterminated in melee combat, friendly units within 8” of the unit that exterminated these troops must test morale as indicated on page 28 of the CLASH of Spears rules, instead of the 4” range for seeing friendly troops exterminated.
-
-</description>
+See Clash of Katanas page 41</description>
     </rule>
     <rule id="1190-102e-e4df-9de0" name="Fickle" publicationId="2b66-a6af-f775-7e3a" page="41" hidden="false">
       <description>(affects break test results)
 
-When a player fails one or more of the dice rolls on a force break test, all troops with the Fickle trait must do an allegiance test. The player must roll a D6 for each unit with this trait and consult the following table. 
- 
-Any friendly or enemy characters can try to influence this roll. Before rolling the dice, any friendly or enemy characters can spend any command points that they might have left to  influence the test of a unit they have within their command range.
- 
-Any command points spent by enemy characters will result on a -1 modifier to the die roll, and any command points spent by friendly characters will result on a +1 modifier to the die roll.
- 
-The enemy player must spend any command points they want to spend first, followed by the player that currently owns the testing unit. 
- 
-The player that owns the troops required to test can decide in which order to take the tests if more than one unit is affected.
-
-ROLL &amp; EFFECT
-1 or less The unit has changed sides and will now be controlled by the enemy player going forward.
-
- The number of models required to cause a break point calculated at the start of the game for each side do not change, and any models killed from the unit that has changed sides will not contribute to “casualties for break points” from either side. 
-
-2-4 The unit gains 3 action tokens, this means that they will not be able to activate next turn.
-
-5 or more. The unit gains 1 action token, this means that the unit will only be able to execute up to two additional actions next turn.
-
-</description>
+See Clash of Katanas page 41</description>
     </rule>
     <rule id="153a-1158-023f-e4de" name="Furor" publicationId="2b66-a6af-f775-7e3a" page="42" hidden="false">
       <description>(requires loose order, affects All-Out Attack)
 
-When a unit with the furor trait executes an All-Out Attack and triggers an enemy morale test, then the enemy will have to add an additional D6 to their morale test dice, just as if they had suffered an additional casualty.
-
+See Clash of Katanas page 42
 </description>
     </rule>
     <rule id="248c-5a38-ff9b-1443" name="Honorable" publicationId="2b66-a6af-f775-7e3a" page="42" hidden="false">
       <description>(affects morale test and fatigue effects)
 
-Troops with this trait do not need to take a morale test when an enemy unit within 4” destroys a friendly unit in melee unless that friendly unit also has the Honorable trait. They do still need to take morale tests for seeing  character models die.
- 
-In addition to this, troops with the Honorable trait may re-roll 1s in morale tests, before applying any modifiers, unless the test was due to melee with troops with the Honorable trait. 
- 
-These troops also observe a high honor code and failing to observe this code can weigh heavily on their psyche. When troops with this trait engage in melee against an enemy that has the honorable trait and currently accumulates 3 action tokens, the attacking unit will lose their honorable trait for the reminder of the battle.
-
-</description>
+See Clash of Katanas page 42</description>
     </rule>
     <rule id="2a20-ecb8-768c-0fb6" name="Independent" publicationId="2b66-a6af-f775-7e3a" page="42" hidden="false">
       <description>(affects activation mechanics)
 
-Troops with the independent trait do not require a command point to activate or to react, if they currently don’t  accumulate any action tokens. Activation and reaction tests are still required and can be influenced by CPs as normal. When attempting a reaction without the use of CPs, if the reaction is failed the unit gains an action token, unless the  unit is benefiting from the skirmish specialist trait. CPs can still be use to activate or react if needed.
-
+See Clash of Katanas page 42
 </description>
     </rule>
     <rule id="8f05-7fdf-356d-8fd2" name="Iron Will" publicationId="2b66-a6af-f775-7e3a" page="42" hidden="false">
       <description>(affects fatigue effect)
 
-Troops with this trait are not eliminated when the accumulated fatigue is more than twice the number of models remaining. 
- 
-If a model with this trait is attached to a unit and the unit gains fatigue exceeding twice the number of remaining models, not counting this model, remove the other models, and leave the model with this trait alone where he stands.
+See Clash of Katanas page 42
 
 </description>
     </rule>
     <rule id="3855-107b-6eda-0362" name="Ruthless" publicationId="2b66-a6af-f775-7e3a" page="43" hidden="false">
       <description>(requires all-out attack, affects saving throw)
 
-When executing an all-out-attack action against an enemy that currently accumulates more fatigue than this unit, all  hits gain a -1 save modifier.
+See Clash of Katanas page 43
 
 </description>
     </rule>
     <rule id="580d-9ae4-403e-9ac7" name="The Old Ways" publicationId="2b66-a6af-f775-7e3a" page="43" hidden="false">
       <description>(affects morale break points)
 
-When a character with this trait kills an enemy character with the same trait in hand-to-hand combat, the owning player can immediately add an action token to this model to decapitate the enemy character and earn a “head token”. Adding this action token is not an action itself and no fatigue is gained, nor can it be interrupted by the enemy. Of course, this is not possible if the character has already accumulated 3 action tokens.
- 
-Players accumulate head tokens through the game and at the end of each turn the side that has fewer head tokens suffers a -1 to the dice roll if forced to take a force break test.
- 
-If a character with this trait starts an actionwithin 4” of an enemy character with the same trait and ends their action more than 4” from any enemy character with this trait, friendly units or characters with line of sight to the enemy character and within 10” must immediately take a 1D6 morale test.
- 
-A character with this trait can execute a special action called seppuku, ritual suicide. It is an action so this cannot be done if a character already accumulates 3 action tokens, this action incurs no fatigue for obvious reasons.
- 
-Remove the character from the table and count it as a casualty as if it had been killed by the enemy. No friendly troops are required to take a morale test due to the death of this character, they are in fact inspired by this honorable act. Note that a character might need to take this dramatic action to deny the enemy the opportunity to kill the character themselves and gain a head token or to avoid triggering morale tests for nearby friendly troops.
-
-</description>
+See Clash of Katanas page 43</description>
     </rule>
     <rule id="3be6-4f1f-62a0-9bf1" name="Attacks (X)" publicationId="2b66-a6af-f775-7e3a" page="43" hidden="false">
-      <description>These soldiers have superior combat capabilities compared to other troops. This allows them to execute additional attacks in melee. 
- 
-Models with the Attack (x) trait contribute a higher number of attacks when deciding the total number of attacks that the unit can use for any of the melee combat mechanics described in the rules.
+      <description>(Affects attacks)
+
+See Clash of Katanas page 43
 
 </description>
     </rule>
     <rule id="07c6-cfbe-cdcd-4215" name="Wounds (X)" publicationId="2b66-a6af-f775-7e3a" page="43" hidden="false">
-      <description>These soldiers are very resilient and can sustain additional wounds before they are taken out of action.
- 
-Models with the Wound (x) trait are only removed once they have sustained a number of wounds equal to the x number.
- 
-Wounds that are not enough to kill the model are simply marked next to the model with a corresponding counter.
+      <description>(Affects wounds)
 
-</description>
+See Clash of Katanas page 43</description>
     </rule>
     <rule id="c2d2-671c-5c71-431c" name="Light Cannon" publicationId="2b66-a6af-f775-7e3a" page="45" hidden="false">
-      <description>See full rules on page 45 of Clash of Katanas
-
+      <description>See Clash of Katanas page 45
 </description>
     </rule>
     <rule id="9482-fece-6783-48b1" name="Hwacha" publicationId="2b66-a6af-f775-7e3a" page="48" hidden="false">
-      <description>See full rules on page 48 of Clash of Katanas
-
+      <description>See Clash of Katanas page 48
 </description>
     </rule>
     <rule id="3f79-6883-5073-9546" name="Aimed Shot" publicationId="2b66-a6af-f775-7e3a" page="25" hidden="false">
       <description>(loose order, affects shooting)
 
-When these troops perform a Ready action, place a Ready token or maker next to them to indicate that they have taken the Ready action. This token remains there until the unit completes an action or rest/rally at which point it is removed.
- 
-If a unit with this token next to them executes a shoot action against an enemy unit in close range, the unit may reroll any misses.
-
+See Clash of Katanas page 25
 </description>
     </rule>
     <rule id="76c4-88ea-3c72-aabc" name="Pavises" publicationId="2b66-a6af-f775-7e3a" page="24" hidden="false">
       <description>(1 armor point against missile attacks when deployed)
 
-Missile troops can carry large shields known as pavises, or Tate for the Japanese.
- 
-A unit equipped with pavises starts the battle with the pavises shouldered. While a unit has pavises shouldered it may not do any shoot actions and it always counts as if their save stat was one point lower for fatigue, so a unit with a saving throw of 6 with shouldered pavises counts as 5+ for fatigue, a unit with 5+ save stat counts as 4+ for fatigue and so on. 
-  
-A unit in close order can deploy the pavises by executing a ready action, place the pavises in front of the unit. 
- 
-A unit with deployed pavises gains a +1 to their saving throw against any missile attacks from enemies to their front. In addition, while the unit has any unloaded token the player may re-roll any 1s rolled on saving throws, reflecting the additional protection gained while troops are reloading.
- 
-Units with deployed pavises never get the cover benefit from linear obstacles. A unit with deployed pavises can execute a ready action to shoulder the pavises.
- 
-A unit in loose order with deployed pavises gains no benefit from the pavises and must execute a form close order action to regain the benefit.
- 
-If a unit with deployed pavises executes a move, attack or all-out attack action, the pavises are destroyed and removed from the table.
- 
-If a unit with pavises, is engaged in hand to hand combat the pavises are destroyed.
- 
-A unit can abandon the pavises for free at  the start of any move, attack or all-out-attack action, the pavises are destroyed and removed from the table.
-
-</description>
+See Clash of Katanas page 24</description>
     </rule>
   </sharedRules>
   <sharedProfiles>
