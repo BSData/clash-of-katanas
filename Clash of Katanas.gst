@@ -130,6 +130,7 @@ What army -&gt; unit -&gt; issue</readme>
         <characteristicType id="b0de-9dc3-d483-7e66" name="Rare"/>
         <characteristicType id="4ebe-c356-4c48-077b" name="Total"/>
         <characteristicType id="bdbb-be9f-0134-c1cc" name="Break point every # of figures"/>
+        <characteristicType id="9468-0b06-c396-434b" name="Warband Type"/>
       </characteristicTypes>
     </profileType>
   </profileTypes>
