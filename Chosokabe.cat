@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalogue id="db13-edc6-aab3-249a" name="Chosokabe" revision="5" battleScribeVersion="2.03" library="false" gameSystemId="4721-7945-0208-1507" gameSystemRevision="6" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+<catalogue id="db13-edc6-aab3-249a" name="Chosokabe" revision="6" battleScribeVersion="2.03" library="false" gameSystemId="4721-7945-0208-1507" gameSystemRevision="9" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
   <entryLinks>
     <entryLink id="0d7e-2476-c248-06b4" name="Assassin" hidden="false" collective="false" import="true" targetId="8df8-1086-08dd-13c1" type="selectionEntry"/>
     <entryLink id="b79d-fdd3-450e-c4b5" name="Geisha" hidden="false" collective="false" import="true" targetId="89cb-ea3d-93c5-3d18" type="selectionEntry"/>
@@ -2216,18 +2216,18 @@
     </selectionEntry>
     <selectionEntry id="90b1-e58b-182d-1602" name="Teppo Ashigaru" publicationId="2b66-a6af-f775-7e3a" page="75" hidden="false" collective="false" import="true" type="unit">
       <profiles>
-        <profile id="355f-5dff-68c0-d812" name="Teppo Ashigaru" publicationId="c456-f76c-b3d1-a04e" page="75" hidden="false" typeId="d31a-d021-74d9-2349" typeName="Civis">
+        <profile id="355f-5dff-68c0-d812" name="Teppo Ashigaru" publicationId="c456-f76c-b3d1-a04e" page="75" hidden="false" typeId="247d-4cc3-afc8-3086" typeName="Milites">
           <characteristics>
-            <characteristic name="TROOP TYPE" typeId="8486-8c22-481a-51f9">Teppo Ashigaru</characteristic>
-            <characteristic name="AVAIL." typeId="5bf8-5f95-e41c-bb9d">Civis</characteristic>
-            <characteristic name="CBT" typeId="0497-5901-f748-ccf9">4+</characteristic>
-            <characteristic name="RNG" typeId="d458-aaaf-51eb-6f1d">5+</characteristic>
-            <characteristic name="GRIT" typeId="fc6f-14f8-1920-f724">4+</characteristic>
-            <characteristic name="SAVE" typeId="1d33-e539-6628-4e3c">6+</characteristic>
-            <characteristic name="WEAPONS" typeId="dc9d-fc65-ecd7-f6b1">Arquebus</characteristic>
-            <characteristic name="ARMOR" typeId="3e8b-7655-dee2-e698">Partial Armor</characteristic>
-            <characteristic name="TRAITS" typeId="e1ce-d7cb-4440-6044">Volley</characteristic>
-            <characteristic name="PTS" typeId="b828-2760-478f-afe3">15</characteristic>
+            <characteristic name="TROOP TYPE" typeId="5128-bdb7-5a66-c1f1">Teppo Ashigaru</characteristic>
+            <characteristic name="AVAIL." typeId="5e80-6804-d17e-a7d9">Milites</characteristic>
+            <characteristic name="CBT" typeId="c1c3-d3e4-72fa-afd1">4+</characteristic>
+            <characteristic name="RNG" typeId="e5f5-9646-3cee-75e7">5+</characteristic>
+            <characteristic name="GRIT" typeId="1e40-d1e9-691b-5105">4+</characteristic>
+            <characteristic name="SAVE" typeId="207c-cb8f-a014-6ca1">6+</characteristic>
+            <characteristic name="WEAPONS" typeId="dea8-1e27-d36f-27cd">Arquebus</characteristic>
+            <characteristic name="ARMOR" typeId="e700-d44f-7a52-4531">Partial Armor</characteristic>
+            <characteristic name="TRAITS" typeId="a3f7-8baa-78c9-8be4">Volley</characteristic>
+            <characteristic name="PTS" typeId="0318-49b2-fa2b-fe98">15</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -2236,8 +2236,8 @@
         <infoLink id="20e6-5feb-3382-ccf3" name="Volley" hidden="false" targetId="1368-1e12-4bdb-b5bd" type="rule"/>
       </infoLinks>
       <categoryLinks>
-        <categoryLink id="92d5-2e9b-b7c7-f197" name="Civis" hidden="false" targetId="6c02-5d82-97fc-1258" primary="true"/>
         <categoryLink id="f662-c7b0-fd57-e52c" name="Chosokabe" hidden="false" targetId="6968-97b8-bc7d-a7c6" primary="false"/>
+        <categoryLink id="1945-0717-aa0d-bca2" name="New CategoryLink" hidden="false" targetId="a836-9302-4ef1-0e0b" primary="true"/>
       </categoryLinks>
       <selectionEntries>
         <selectionEntry id="dc19-4482-5cb0-7b8e" name="Extra models" hidden="false" collective="false" import="true" type="upgrade">

@@ -122,6 +122,16 @@ What army -&gt; unit -&gt; issue</readme>
         <characteristicType id="e6a0-9cba-d6ab-891e" name="Notes"/>
       </characteristicTypes>
     </profileType>
+    <profileType id="109e-4054-6d8f-d719" name="Totals">
+      <characteristicTypes>
+        <characteristicType id="f6da-008f-1cbf-fe9b" name="Leaders"/>
+        <characteristicType id="cb80-2e1c-df2f-427f" name="Civis"/>
+        <characteristicType id="ae00-327d-367a-9e65" name="Milites"/>
+        <characteristicType id="b0de-9dc3-d483-7e66" name="Rare"/>
+        <characteristicType id="4ebe-c356-4c48-077b" name="Total"/>
+        <characteristicType id="bdbb-be9f-0134-c1cc" name="Break point every # of figures"/>
+      </characteristicTypes>
+    </profileType>
   </profileTypes>
   <categoryEntries>
     <categoryEntry id="2b85-e441-49d0-278e" name="Iga warriors" publicationId="2b66-a6af-f775-7e3a" page="92" hidden="false"/>
