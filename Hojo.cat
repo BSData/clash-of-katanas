@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalogue id="c560-3560-0dcd-5a17" name="Hojo" revision="4" battleScribeVersion="2.03" library="false" gameSystemId="4721-7945-0208-1507" gameSystemRevision="7" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+<catalogue id="c560-3560-0dcd-5a17" name="Hojo" revision="5" battleScribeVersion="2.03" library="false" gameSystemId="4721-7945-0208-1507" gameSystemRevision="8" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
   <entryLinks>
     <entryLink id="dee4-d9e0-98c1-a63a" name="Lvl 2 Veteran Warrior" hidden="false" collective="false" import="true" targetId="d2cf-0a6b-cbc0-c439" type="selectionEntry"/>
     <entryLink id="b5d8-11b9-06d5-b305" name="Lvl 3 Kogashira" hidden="false" collective="false" import="true" targetId="7284-d45b-33bb-234e" type="selectionEntry"/>
@@ -2277,7 +2277,7 @@
           <modifiers>
             <modifier type="increment" field="b6a6-2192-6add-77b0" value="1.0">
               <conditions>
-                <condition field="selections" scope="7e35-2366-ec19-d4f4" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" childId="ab04-3773-6089-eeb1" type="equalTo"/>
+                <condition field="selections" scope="7e35-2366-ec19-d4f4" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" childId="5030-06b7-56aa-dce0" type="equalTo"/>
               </conditions>
             </modifier>
             <modifier type="increment" field="b6a6-2192-6add-77b0" value="1.0">
