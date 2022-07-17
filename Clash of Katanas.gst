@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<gameSystem id="4721-7945-0208-1507" name="Clash of Katanas" revision="8" battleScribeVersion="2.03" authorName="Karter Aurian" authorContact="Karter.Aurian@gmail.com" xmlns="http://www.battlescribe.net/schema/gameSystemSchema">
+<gameSystem id="4721-7945-0208-1507" name="Clash of Katanas" revision="9" battleScribeVersion="2.03" authorName="Karter Aurian" authorContact="Karter.Aurian@gmail.com" xmlns="http://www.battlescribe.net/schema/gameSystemSchema">
   <readme>Hope it all works
 
 Haven&apos;t figured out how to limit things like geisha&apos;s and assassins to 1 per army.
@@ -180,36 +180,12 @@ Start the battle with 2 Fate Points.</comment>
             <constraint field="selections" scope="force" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="1058-f383-7490-5a7b" type="max"/>
           </constraints>
         </categoryLink>
-        <categoryLink id="e912-ec01-0a3c-5bb5" name="Character" hidden="false" targetId="6124-b230-4f3a-c166" primary="false">
-          <constraints>
-            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="b56d-129f-161a-8486" type="min"/>
-          </constraints>
-        </categoryLink>
-        <categoryLink id="865d-39e1-0638-5700" name="Civis" hidden="false" targetId="6c02-5d82-97fc-1258" primary="false">
-          <constraints>
-            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="4e99-46f5-5631-de1a" type="min"/>
-          </constraints>
-        </categoryLink>
-        <categoryLink id="9936-a3ec-740d-af0b" name="Milites" hidden="false" targetId="a836-9302-4ef1-0e0b" primary="false">
-          <constraints>
-            <constraint field="selections" scope="parent" value="0.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="766d-617c-8602-6856" type="min"/>
-          </constraints>
-        </categoryLink>
-        <categoryLink id="39e5-73c3-2c1c-db1b" name="Rare" hidden="false" targetId="c506-322e-c5f6-630e" primary="false">
-          <constraints>
-            <constraint field="selections" scope="force" value="0.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="5671-6fc3-51b5-48ec" type="min"/>
-          </constraints>
-        </categoryLink>
-        <categoryLink id="266a-3112-e8d9-dbf2" name="Warband options" hidden="false" targetId="83b5-9c2a-edca-7ebe" primary="false">
-          <constraints>
-            <constraint field="selections" scope="parent" value="0.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="cbdd-0237-0d16-23d9" type="min"/>
-          </constraints>
-        </categoryLink>
-        <categoryLink id="b301-c386-60ed-cf2a" name="Warmachine" hidden="false" targetId="0e33-d5c8-5c32-e0d8" primary="false">
-          <constraints>
-            <constraint field="selections" scope="force" value="0.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="3208-2d24-5838-a1b9" type="min"/>
-          </constraints>
-        </categoryLink>
+        <categoryLink id="e912-ec01-0a3c-5bb5" name="Character" hidden="false" targetId="6124-b230-4f3a-c166" primary="false"/>
+        <categoryLink id="865d-39e1-0638-5700" name="Civis" hidden="false" targetId="6c02-5d82-97fc-1258" primary="false"/>
+        <categoryLink id="9936-a3ec-740d-af0b" name="Milites" hidden="false" targetId="a836-9302-4ef1-0e0b" primary="false"/>
+        <categoryLink id="39e5-73c3-2c1c-db1b" name="Rare" hidden="false" targetId="c506-322e-c5f6-630e" primary="false"/>
+        <categoryLink id="266a-3112-e8d9-dbf2" name="Warband options" hidden="false" targetId="83b5-9c2a-edca-7ebe" primary="false"/>
+        <categoryLink id="b301-c386-60ed-cf2a" name="Warmachine" hidden="false" targetId="0e33-d5c8-5c32-e0d8" primary="false"/>
       </categoryLinks>
     </forceEntry>
     <forceEntry id="5daf-e388-e75e-95d5" name="Muster" publicationId="c456-f76c-b3d1-a04e" page="116" hidden="false">
@@ -242,22 +218,22 @@ Start the battle with 2 Fate Points.</comment>
       <categoryLinks>
         <categoryLink id="3132-7390-92a0-cd0f" name="Character" hidden="false" targetId="6124-b230-4f3a-c166" primary="false">
           <constraints>
-            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="6508-f859-3540-b917" type="min"/>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="db7a-18bb-8ad1-b54a" type="min"/>
           </constraints>
         </categoryLink>
         <categoryLink id="0941-cee1-72cd-8b59" name="Civis" hidden="false" targetId="6c02-5d82-97fc-1258" primary="false">
           <constraints>
-            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="8f77-a79c-ef32-25ef" type="min"/>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="fe05-2ea0-b52d-f2c9" type="min"/>
           </constraints>
         </categoryLink>
         <categoryLink id="a6cb-fe86-5ed4-685b" name="Milites" hidden="false" targetId="a836-9302-4ef1-0e0b" primary="false">
           <constraints>
-            <constraint field="selections" scope="parent" value="0.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="49e3-d85d-e4cd-1495" type="min"/>
+            <constraint field="selections" scope="parent" value="0.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="d09c-61f4-0571-f923" type="min"/>
           </constraints>
         </categoryLink>
         <categoryLink id="e895-8a4d-b58f-ec05" name="Rare" hidden="false" targetId="c506-322e-c5f6-630e" primary="false">
           <constraints>
-            <constraint field="selections" scope="force" value="0.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="0e4a-40c0-bb79-aa1d" type="min"/>
+            <constraint field="selections" scope="force" value="0.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="4ced-ef21-9e7e-7f25" type="min"/>
           </constraints>
         </categoryLink>
         <categoryLink id="0eb1-b4f5-3e58-8b94" name="Warmachine" hidden="false" targetId="0e33-d5c8-5c32-e0d8" primary="false">
